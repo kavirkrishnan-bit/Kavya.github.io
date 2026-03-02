@@ -1,4 +1,3 @@
-/* BASIC RESET */
 * {
     margin: 0;
     padding: 0;
@@ -7,14 +6,14 @@
 
 body {
     font-family: "Montserrat", sans-serif;
-    color: #ececec;
-    background: #111;
+    color: #e6e6e6;
+    background: #0f0f12;
     line-height: 1.6;
 }
 
-/* NAVIGATION */
+/* NAV */
 nav {
-    background: #0f0f0f;
+    background: #111318;
     padding: 15px 0;
     text-align: center;
     position: sticky;
@@ -22,78 +21,81 @@ nav {
 }
 
 nav a {
-    color: #ececec;
+    color: #d1d1d1;
     margin: 0 15px;
-    font-weight: 600;
+    font-weight: 500;
     text-decoration: none;
     font-size: 0.95rem;
+    transition: 0.3s ease;
 }
+
 nav a:hover {
-    color: gold;
+    color: #c6a75e;
 }
 
 /* HEADER */
 header {
     text-align: center;
-    padding: 60px 20px;
+    padding: 80px 20px;
     font-family: "Merriweather", serif;
 }
 
 header h1 {
     font-size: 2.8rem;
     font-weight: 700;
-    color: gold;
+    color: #c6a75e;
+    letter-spacing: 1px;
 }
 
 header p {
-    font-size: 1.2rem;
-    margin-top: 8px;
-    color: #aaa;
+    font-size: 1.1rem;
+    margin-top: 10px;
+    color: #9ca3af;
 }
 
 /* SECTIONS */
 section {
-    padding: 50px 10%;
+    padding: 60px 10%;
 }
 
 section h2 {
-    font-size: 1.9rem;
-    border-bottom: 2px solid gold;
+    font-size: 1.8rem;
+    border-bottom: 1px solid #c6a75e;
     padding-bottom: 8px;
     font-family: "Merriweather", serif;
-    margin-bottom: 12px;
-}
-
-section p,
-section ul {
-    margin-top: 12px;
-    font-size: 1rem;
+    margin-bottom: 18px;
+    color: #ffffff;
 }
 
 /* CARDS */
 .card {
-    background: #1a1a1a;
-    padding: 18px 22px;
-    margin: 12px 0;
-    border-left: 4px solid gold;
-    border-radius: 5px;
+    background: #17191f;
+    padding: 22px;
+    margin: 15px 0;
+    border-left: 3px solid #c6a75e;
+    border-radius: 4px;
+    transition: 0.3s ease;
+}
+
+.card:hover {
+    background: #1d2027;
 }
 
 /* LISTS */
 ul li {
-    margin: 6px 0;
-    list-style-type: circle;
+    margin: 8px 0;
 }
 
 /* FOOTER */
 footer {
     text-align: center;
-    padding: 28px 10%;
+    padding: 40px 10%;
     font-size: 0.9rem;
-    border-top: 1px solid #222;
+    border-top: 1px solid #1f1f1f;
+    color: #9ca3af;
 }
 
 footer a {
-    color: gold;
+    color: #c6a75e;
     text-decoration: none;
 }
