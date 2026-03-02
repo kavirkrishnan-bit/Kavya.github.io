@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kavya R. Krishnan | Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Kavya R. Krishnan</h1>
+        <p>Final Year B.A. LL.B. (Hons.) Student | Legal Researcher</p>
+        <div class="contact">
+            <a href="mailto:kavirkrishnan@gmail.com">Email</a>
+            <a href="https://www.linkedin.com/in/kavya-r-krishnan-382819283" target="_blank">LinkedIn</a>
+        </div>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            Final Year B.A. LL.B. (Hons.) student at School of Law, SASTRA Deemed University 
+            with a CGPA of 8.8/10. Strong research background in taxation law, public policy, 
+            geopolitics, and constitutional law. Experienced in litigation research, policy analysis, and academic writing.
+        </p>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li><strong>B.A. LL.B. (Hons.)</strong> – School of Law, SASTRA Deemed University (2021–2026) | CGPA: 8.8/10</li>
+            <li><strong>Sri Sankara Senior Secondary School, Chennai</strong> – 98.4% (2019–2021)</li>
+            <li><strong>D.A.V. Public School, Chennai</strong> – 93.4% (2014–2019)</li>
+        </ul>
+    </section>
+
+    <section id="internships">
+        <h2>Internships</h2>
+
+        <div class="card">
+            <h3>Office of Senior Advocate V. S. Jayakumar, Chennai (2025)</h3>
+            <p>Researched taxation statutes including Sections 80IA, 80JJA, 153A–C, 154, 263, 270AA. 
+               Legal interpretation of infrastructure and works contract provisions.</p>
+        </div>
+
+        <div class="card">
+            <h3>Centre for Policy Research and Governance, Delhi (2024)</h3>
+            <p>Comparative budget analysis (2022–2025), environmental clearance research, 
+               land inequality literature review, and policy presentations.</p>
+        </div>
+
+        <div class="card">
+            <h3>Vivekananda International Foundation (2023)</h3>
+            <p>Research on semiconductor industry, geopolitics, Indo-US relations and global policy analysis.</p>
+        </div>
+
+        <div class="card">
+            <h3>King & Partridge, Chennai (2022)</h3>
+            <p>Exposure to Labour Law, Arbitration Act, Banking Regulations Act, and Consumer Law.</p>
+        </div>
+
+    </section>
+
+    <section id="publications">
+        <h2>Publications</h2>
+        <ul>
+            <li>
+                Allocation of Shares for Non-cash Consideration – IJFMR (2023)
+                <a href="https://www.ijfmr.com/research-paper.php?id=9932" target="_blank">View</a>
+            </li>
+            <li>
+                Legal Aspects of GE-HAL F414 Engines Deal – VIF (2023)
+                <a href="https://www.vifindia.org/article/2023/december/12/Legal-Aspects-of-General-Electric-and-Hindustan-Aeronautics" target="_blank">View</a>
+            </li>
+        </ul>
+    </section>
+
+    <section id="achievements">
+        <h2>Achievements</h2>
+        <ul>
+            <li>Winner – 2nd Dr. T. M. A. Pai Technology International Moot Court Competition (2025)</li>
+            <li>Quarter Finalist – Justice Dipak Misra International Moot Court Competition (2024)</li>
+            <li>Winner – NHRC – TNNLU Moot Court Competition (2022)</li>
+            <li>Runners Up – Intra Moot Court Competition, SASTRA University</li>
+        </ul>
+    </section>
+
+    <section id="leadership">
+        <h2>Leadership & Activities</h2>
+        <ul>
+            <li>Head of Event Management Committee – 20th Nani Palkhivala Memorial National Tax Moot Court Competition (2025)</li>
+            <li>Team Head – TechnoInformals, Official Management & Event Cluster, SASTRA University</li>
+            <li>Legal Aid Camps – Thanjavur (Awareness & Career Counselling)</li>
+        </ul>
+    </section>
+
+    <section id="languages">
+        <h2>Languages</h2>
+        <p>English | Tamil | Hindi</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Kavya R. Krishnan</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
